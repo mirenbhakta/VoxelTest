@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BlockAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ffc77deb63184a346bb9b2cd7a55036f, type: 3}
+    totalSpriteSurfaceArea: 1015808
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 67a98b5038a5f6e4494555ed428018ef, type: 3}
+  - {fileID: 21300000, guid: 22a5df50b3eef6f419c74629bfa24e1b, type: 3}
+  - {fileID: 21300000, guid: bdfadec0088ad884698a7d6059231eb3, type: 3}
+  - {fileID: 21300000, guid: 516591d0a83ba7f48967797f33825515, type: 3}
+  - {fileID: 21300000, guid: 70d1a3d00639681408c6139da52a02eb, type: 3}
+  - {fileID: 21300000, guid: 956cac017b1f3184e9c3fc61a6818fa0, type: 3}
+  - {fileID: 21300000, guid: 70a2dd81754d2d740a470b3d24497bfd, type: 3}
+  - {fileID: 21300000, guid: c59db6910fb0d2f4da5bccc1886bb27b, type: 3}
+  - {fileID: 21300000, guid: 0c2eeaa115e297749b9d687e118a37da, type: 3}
+  - {fileID: 21300000, guid: 86b50912b5c7e2a4bb69aebf0138ff61, type: 3}
+  - {fileID: 21300000, guid: 30163f2285b878043a2ee30d9e25ae6f, type: 3}
+  - {fileID: 21300000, guid: 6084bc32a51257445972d6caf91b46a1, type: 3}
+  - {fileID: 21300000, guid: eb8de0a28a0c1e5419c69c0179ec83ac, type: 3}
+  - {fileID: 21300000, guid: a404dec25fbbf9b46ac14d9ae7f4a863, type: 3}
+  - {fileID: 21300000, guid: 451b41d2b4f09654985e9e1d1b4479e3, type: 3}
+  - {fileID: 21300000, guid: bf6011737c9b2e549baa218d37638257, type: 3}
+  - {fileID: 21300000, guid: 3a58c4938faff3742a75835b0b44820f, type: 3}
+  - {fileID: 21300000, guid: 77524a548c8df9d49afc65cbd47a8c28, type: 3}
+  - {fileID: 21300000, guid: 5869e9c416967ff46951d5d142c3ae65, type: 3}
+  - {fileID: 21300000, guid: d07811152362a514886cfcc415a22c15, type: 3}
+  - {fileID: 21300000, guid: 2b4123a5256521f488da6bd7542b67cb, type: 3}
+  - {fileID: 21300000, guid: 45fdb5c509be82342889c789fcb6a4b8, type: 3}
+  - {fileID: 21300000, guid: 5f9a7166be5f4e043b30b92fcfe4d6b5, type: 3}
+  - {fileID: 21300000, guid: 8aaf9a27e44dd724fb90bd8fa8c88908, type: 3}
+  - {fileID: 21300000, guid: 96063037c2dab7640b1418e2ccf71a2e, type: 3}
+  - {fileID: 21300000, guid: 1a129b672fabb5b418ac6642d0e683f9, type: 3}
+  - {fileID: 21300000, guid: 0a985277a94cd384f81676eb31ec4906, type: 3}
+  - {fileID: 21300000, guid: 92ba98b752e102d43aa488d271404cd4, type: 3}
+  - {fileID: 21300000, guid: 6b280e884fcc1d842a004ec6a6e8f5ae, type: 3}
+  - {fileID: 21300000, guid: ddc8b9e80d9dedc469c5d6f636eee0cb, type: 3}
+  - {fileID: 21300000, guid: 00f3280905631e740abc2c1bcf999214, type: 3}
+  - {fileID: 21300000, guid: b62cf9299c00f0b4d82983d03e8c0519, type: 3}
+  - {fileID: 21300000, guid: 75659a49cd3c32c4ebe425af28933ae2, type: 3}
+  - {fileID: 21300000, guid: e51a7fe9687005c4eaeeb76430dcf671, type: 3}
+  - {fileID: 21300000, guid: 4a250af9b106abe40bd4083cccab7422, type: 3}
+  - {fileID: 21300000, guid: 018ca51acc7515149a72089e695d8d40, type: 3}
+  - {fileID: 21300000, guid: 280252ca30bdde943b4b9e90bc82fd25, type: 3}
+  - {fileID: 21300000, guid: 38062bfada5da45489bb6a19b425beea, type: 3}
+  - {fileID: 21300000, guid: c9ca0f0bd2e77284dbe2a51be96a33cd, type: 3}
+  - {fileID: 21300000, guid: 4dc16f3bcbad5eb468e3d7abf3f43eb4, type: 3}
+  - {fileID: 21300000, guid: cc72dbaba119c0e4ba8586e809ed015a, type: 3}
+  - {fileID: 21300000, guid: 6491f7ebb7c275d4ca9fff2ce0ce199a, type: 3}
+  - {fileID: 21300000, guid: 5ed0bb0c64d9a1441807b69bcce1f28b, type: 3}
+  - {fileID: 21300000, guid: 915a408cbbf012e4c9c2afde8ae64e3a, type: 3}
+  - {fileID: 21300000, guid: f42794bc6b854bd44b898b998b2e148e, type: 3}
+  - {fileID: 21300000, guid: 997809dc4345b9340a32c6dcd58817cc, type: 3}
+  - {fileID: 21300000, guid: 6bbfc0ec02c1db441bd033d442f173d7, type: 3}
+  - {fileID: 21300000, guid: 2ab8011d5be07484dafa5b73d00d222f, type: 3}
+  - {fileID: 21300000, guid: 595981ad3ed63224a96e02de0b758503, type: 3}
+  - {fileID: 21300000, guid: 8f52902e5b69ba142806d85dff26d7bf, type: 3}
+  - {fileID: 21300000, guid: 3d04462ee07fafb45ac73cb195b519b4, type: 3}
+  - {fileID: 21300000, guid: f6ada53e5760c0d448124e459d3445c3, type: 3}
+  - {fileID: 21300000, guid: 2b78104e5276ce244841b3de63b55c80, type: 3}
+  - {fileID: 21300000, guid: ced5254e41c0d2243826bef2f5c576b5, type: 3}
+  - {fileID: 21300000, guid: 7665f97ed56f89141b321b86458b9cb3, type: 3}
+  - {fileID: 21300000, guid: 8d9a0a8e90f8ea640901c1cdd597ff15, type: 3}
+  - {fileID: 21300000, guid: ba95af8e7130c054887d3a75a1ab9bee, type: 3}
+  - {fileID: 21300000, guid: f4915f0f90da19a4b87cca4315104157, type: 3}
+  - {fileID: 21300000, guid: ffacd83fb524bcb4b8e8b07e4c63847a, type: 3}
+  - {fileID: 21300000, guid: ede2804ff7e195b4a9f965a6d0ac1a4e, type: 3}
+  - {fileID: 21300000, guid: 151e724f57779c54a90ba5b4041fc02a, type: 3}
+  - {fileID: 21300000, guid: 511df86fa5105c146a9c33e29645811c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - stone_coal
+  - leaves_orange
+  - water
+  - redstone_emerald_alt
+  - greystone_ruby_alt
+  - wood
+  - greysand
+  - cotton_green
+  - snow
+  - brick_grey
+  - stone_iron
+  - dirt
+  - cactus_top
+  - dirt_grass
+  - stone_diamond_alt
+  - greystone
+  - grass_top
+  - glass_frame
+  - gravel_stone
+  - cactus_inside
+  - leaves_transparent
+  - sand
+  - redsand
+  - stone_gold
+  - stone_sand
+  - ice
+  - redstone_emerald
+  - stone_diamond
+  - cotton_red
+  - redstone_sand
+  - stone_gold_alt
+  - trunk_side
+  - gravel_dirt
+  - table
+  - dirt_sand
+  - stone_snow
+  - stone_silver_alt
+  - stone_browniron
+  - cotton_tan
+  - dirt_snow
+  - trunk_white_side
+  - cotton_blue
+  - greystone_sand
+  - leaves
+  - brick_red
+  - stone_iron_alt
+  - glass
+  - lava
+  - trunk_top
+  - redstone
+  - greystone_ruby
+  - stone_dirt
+  - stone_coal_alt
+  - cactus_side
+  - leaves_orange_transparent
+  - stone_browniron_alt
+  - stone_silver
+  - stone
+  - trunk_white_top
+  - wood_red
+  - oven
+  - stone_grass
+  m_Tag: BlockAtlas
+  m_IsVariant: 0
